@@ -2,7 +2,7 @@
 The basics of scraping web pages in R using rvest
 
 ### Requirements for the class
--   [R and RStudio installed]()
+-   [R and RStudio installed](https://docs.google.com/document/d/1W7WIIW9UyqOec7rU36EsQqrRvgLJGRf3_dwTcy4YvJM/edit?usp=drive_link)
 -   tidyverse and rvest installed: `install.packages(c("tidyverse","rvest"))`
 -   A browser with development tools (such as Chrome Inpsect)
 
