@@ -42,8 +42,6 @@ ex. `everything_inside_a_p_tag |> html_text2()`
 
 2 [https://dlr.sd.gov/workforce_services/businesses/warn_notices.aspx](https://dlr.sd.gov/workforce_services/businesses/warn_notices.aspx)
 
-3 [https://www.billboard.com/charts/hot-100/](https://www.billboard.com/charts/hot-100/)
-
 You'll find the finished scripts in the [finished_scripts](/finished_scripts) folder.
 
 ### Resources for help
