@@ -84,7 +84,7 @@ table <- table |>
 
 Voila! You can export the clean table as a csv:
 ```{r}
-write_csv("md_warn_final.csv")
+write_csv(table, "md_warn_final.csv")
 ```
 
 ### Step Two: scrape multiple pages
